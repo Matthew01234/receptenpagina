@@ -1,0 +1,45 @@
+.div1{
+    padding-left: 250px;
+    padding-right: 250px;
+    font-family: 'Roboto', sans-serif;
+}
+.titletext{
+    border-bottom: 2px solid;
+    font-size: 36px;
+    line-height: 36px;
+}
+.normaltitle{
+    padding-top: 40px;
+    font-size: 32px;
+    line-height: 32px;
+}
+.stappentext{
+    padding-top: 20px;
+    font-size: 20px;
+    line-height: 26px;
+}
+.ingrediententext{
+    padding-top: 10px;
+    font-size: 20px;
+    line-height: 26px;
+}
+.introduction{
+    font-size: 24px;
+    line-height: 36px;
+}
+
+.tipbox{
+    background-color: #def6ed;
+    border-radius: 4px #def6ed;
+}
+.tiptext{
+    padding: 25px;
+}
+.Recepten{
+    padding: 10px;
+    background-color: #def6ed
+}
+button{
+padding: 20px;
+
+}
